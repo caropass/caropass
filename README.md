@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Carolina Passarello</h1>
-<h3 align="center">Soy Ingeniera de Software especializada en Informática Forense e Inteligencia Artificial</h3>
+<h3 align="center">Soy Ingeniera de Sistemas especializada en Informática Forense e Inteligencia Artificial</h3>
 
 - 🔭 Actualmente me desempeño como Senior Forensic Computer Engineer en el Gabinete Científico Judicial - Chaco - Argentina - 
 
