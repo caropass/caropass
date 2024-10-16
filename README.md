@@ -3,8 +3,8 @@
 
 - 🔭 Actualmente me desempeño como Senior Forensic Computer Engineer en el Gabinete Científico Judicial - Chaco - Argentina - 
 
-- 👨‍💻 Soy Graduada de la Universidad Tecnologica Nacional de Ingeniera en Sistemas de Informacion y del Instituto Nacional del Profesorado Técnico de Profesora en Disciplinas Industriales - 
-- ⚡ Estoy estudiando la Maestria en Investigacion en Inteligencia Artificial en la UIMP en Madrid - España -
+- 👨‍💻 Soy Graduada de la Universidad Tecnológica Nacional de Ingeniera en Sistemas de Información y del Instituto Nacional del Profesorado Técnico de Profesora en Disciplinas Industriales - 
+- ⚡ Recientemente me he graduado con un máster en Inteligencia Artificial por la Universidad Internacional Menéndez Pelayo (UIMP-AEPIA) en Madrid - España -
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/carolinapassarello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carolinapassarello" height="30" width="40" /></a>
